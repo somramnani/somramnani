@@ -52,7 +52,7 @@ A QA automation project using Selenium, JavaScript, and Mocha. This project invo
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/som-ramnani-b1990b14b/)
+- [LinkedIn](https://www.linkedin.com/in/som-ramnani-b1990b14b/)
 - [Portfolio](https://somramnani.com/)
 
 ---
