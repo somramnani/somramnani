@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Front End Engineer with a keen in
 
 ## 🚀 About Me
 
-- 🔭 **Current Project**: Building a Memory game using React, focusing on code quality and architecture.
+- 🔭 **Current Project**: Building Tetris using React, focusing on code quality and architecture.
 - 🌱 **Currently Learning**: Advanced React patterns and TypeScript for better type safety.
 - 👯 **Looking to Collaborate on**: Open-source projects and innovative web applications.
 - 💬 **Ask me about**: React, NextJS, TypeScript, Node.js, Express.js, and front-end development.
