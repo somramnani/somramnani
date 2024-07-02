@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm a passionate Front End Engineer with a keen in
 - 👯 **Looking to Collaborate on**: Open-source projects and innovative web applications.
 - 💬 **Ask me about**: React, NextJS, TypeScript, Node.js, Express.js, and front-end development.
 - 📫 **How to reach me**: [Email](mailto:som.ramnani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/som-ramnani-b1990b14b/)
-- ⚡ **Fun Fact**: I love playing basketball, snowboarding, and cooking! :basketball: :snowboarder:
+- ⚡ **Fun Facts**: I love playing basketball, snowboarding, and cooking! :basketball: :snowboarder:
 
 ## 🛠️ Technologies & Tools
 
-- **Front-End**: ReactJS, NextJS, TypeScript, HTML5, CSS3
+- **Front-End**: React, Next, TypeScript, HTML5, CSS3
 - **Back-End**: Node.js, Express.js
 - **Testing**: Selenium, Mocha
 - **Databases**: MongoDB
