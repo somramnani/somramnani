@@ -1,4 +1,4 @@
-# Hi there! My name is Som! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# Hi there! I am Som! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 Welcome to my GitHub profile! I'm a passionate Front End Engineer with a keen interest in creating dynamic and user-friendly web applications. I'm currently sharpening my skills through an engineering fellowship at Formation and have a solid background in full-stack development from my internship at Trendsetter Media & Marketing and my training at Rutgers Coding Bootcamp.
 
