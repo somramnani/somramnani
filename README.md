@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Front End Engineer with a keen in
 - 🔭 **Current Project**: Building Tetris using React, focusing on code quality and architecture.
 - 🌱 **Currently Learning**: Advanced React patterns and TypeScript for better type safety.
 - 👯 **Looking to Collaborate on**: Open-source projects and innovative web applications.
-- 💬 **Ask me about**: React, Next, TypeScript, Node, Express, and Front-End Development.
+- 💬 **Ask me about**: HTML, CSS, JavaScript, React, Next, TypeScript, Node & Express.
 - 📫 **How to reach me**: som.ramnani@gmail.com | [LinkedIn](https://www.linkedin.com/in/som-ramnani-b1990b14b/)
 - ⚡ **Fun Facts**: I love playing basketball, snowboarding, and cooking! :basketball: :snowboarder: 🧑‍🍳
 
